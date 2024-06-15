@@ -5,7 +5,7 @@ I'm Sabareesh Vigram Ravichandran, a front-end developer passionate about buildi
   
 ![coding-github-pic](https://github.com/SVigramR/SVigramR/assets/87016515/c4bd823b-0d10-42f6-b4f2-a0a308afca17)
   
-<img src="https://komarev.com/ghpvc/?username=SVigramR&style=flat&color=ff69b4" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SVigramR&style=flat&color=3fa65c" alt=""/>
 
 </div>
 
