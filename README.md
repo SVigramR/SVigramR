@@ -20,6 +20,6 @@ I'm Sabareesh Vigram Ravichandran, a front-end developer passionate about buildi
 3. [**CV-Application**](https://github.com/SVigramR/CV-Application): CV generator using the React framework
 4. [**sw-memory-game**](https://github.com/SVigramR/sw-memory-game): Star Wars based memory card game using React
 5. [**Etch-A-Sketch**](https://github.com/SVigramR/Etch-A-Sketch): Simple scribbling canvas application
-6. [**To-Do-TOP**](https://github.com/SVigramR/To-Do-TOP): To-do list application
+6. [**Battleship**](https://github.com/SVigramR/Battleship): Battleship game using Javascript
 
 Feel free to check out my projects and collaborate with me!
