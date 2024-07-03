@@ -11,7 +11,7 @@ I'm Sabareesh Vigram Ravichandran, a front-end developer passionate about buildi
 
 ## Tools I Have Been Using So Far
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,tailwindcss,nodejs,npm,react,vite,vitest,jest,webpack,python,js,html,css,git,github,bash,babel,figma,blender,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,materialui,tailwindcss,nodejs,npm,react,vite,vitest,jest,webpack,python,js,html,css,git,github,bash,babel,figma,blender,vscode,neovim)](https://skillicons.dev)
 
 ## My Projects
 
