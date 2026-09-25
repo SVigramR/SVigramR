@@ -1,6 +1,6 @@
 
 # About Me
-I'm Sabareesh Vigram Ravichandran, a fullstack developer passionate about building interactive and user-friendly web applications. Currently, I'm enhancing my skills in back-end development. I enjoy collaborating on open-source projects and am always eager to contribute to the community. Besides my love for tech, I have a deep interest in history and the Star Wars universe. Feel free to reach out to me at svigramr@outlook.com for any queries or collaboration ideas.
+I'm Sabareesh Vigram Ravichandran, a freelance full-stack developer passionate about building interactive and user-friendly web applications. I enjoy working on diverse projects, collaborating on open-source initiatives, and contributing to the developer community. Beyond technology, I have a deep interest in history and the Star Wars universe. Feel free to reach out to me at svigramr@outlook.com for any queries, project opportunities, or collaboration ideas.
 <div align="center">
   
 <!-- ![coding-github-pic](https://github.com/SVigramR/SVigramR/assets/87016515/c4bd823b-0d10-42f6-b4f2-a0a308afca17) -->
